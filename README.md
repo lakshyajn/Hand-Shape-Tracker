@@ -114,9 +114,7 @@ Distances are calculated using:
 - [ ] More precise measurements with camera calibration
 - [ ] UI controls through gestures
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Feel Free to contact!!
 
 ## 🤝 Contributing
 
@@ -125,5 +123,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 > 💪 **Create, measure, and interact - all without touching your computer!**
-
-> 🌈 **The future of human-computer interaction is here.**
